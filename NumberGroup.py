@@ -6,6 +6,5 @@ def getNumberGroup(num: int):
 if __name__ == "__main__":
 
     number = input("Please enter a number: ")
-    print("The gropup for this number is: " + str(getNumberGroup(int(number))))
+    print("The group for this number is: " + str(getNumberGroup(int(number))))
 
-    
